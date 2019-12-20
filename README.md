@@ -2,6 +2,12 @@
 
 > A program to manipulate your tweets and likes.
 
+# Installation
+
+```bash
+go install github.com/gobwas/rmtweet/..
+```
+
 # Usage
 
 To use this tool you should register your own application [here][twitter].
